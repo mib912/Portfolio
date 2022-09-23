@@ -381,3 +381,17 @@ p {
     margin-top: 8px;
     background-color: var(--color-dark-white);
 }
+
+/* Certificate */
+#certificate {
+    background-color: var(--color-light-white);
+}
+
+.certificate {
+    margin: 40px;
+}
+
+.certificate__description {
+    display: flex;
+    justify-content: center;
+}
