@@ -394,6 +394,22 @@ p {
 .certificate__description {
     display: flex;
     justify-content: center;
+    margin: 32px 0;
+}
+
+.certificate__description div{
+    margin: 32px;
+}
+
+.inner-box {
+    width: 180px;
+    height: 150px;
+    padding: 18px;
+    background-color: var(--color-white);
+    border-radius: var(--size-border-radius);
+}
+.inner-box p {
+    line-height: 24px;
 }
 
 /* Contact */
