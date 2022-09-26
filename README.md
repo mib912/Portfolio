@@ -1,4 +1,3 @@
-# Portfolio
+# MJ's Portfolio url
  
-## MJ's portfolio url
 https://mib912.github.io/Portfolio/
